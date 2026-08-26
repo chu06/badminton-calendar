@@ -129,10 +129,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hp1-tournament-hpt-20261010@chu06.github.io
 DTSTAMP:20260826T232600Z
-SUMMARY:HP1 - RA High Performance Tournament (HPT)
+SUMMARY:HP1 - RA High Performance Tournament
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DESCRIPTION:RA High Performance Tournament (HPT)
+DESCRIPTION:RA High Performance Tournament
 END:VEVENT
 
 BEGIN:VEVENT
@@ -250,10 +250,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hp1-tournament-ogpc-20261107@chu06.github.io
 DTSTAMP:20260826T232600Z
-SUMMARY:HP1 - Omnium de Gatineau Black Knight / Victor Provincial C RA Centre (OG/PC)
+SUMMARY:HP1 - Omnium de Gatineau Black Knight / Victor Provincial C
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261109
-DESCRIPTION:Omnium de Gatineau Black Knight / Victor Provincial C RA Centre
+DESCRIPTION:Omnium de Gatineau Black Knight / Victor Provincial C
 END:VEVENT
 
 BEGIN:VEVENT
@@ -379,7 +379,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hp1-tournament-oda-20261205@chu06.github.io
 DTSTAMP:20260826T232600Z
-SUMMARY:HP1 - Ottawa District Adult Championship (ODA)
+SUMMARY:HP1 - Ottawa District Adult Championship
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
 DESCRIPTION:Ottawa District Adult Championship
@@ -1036,7 +1036,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hp1-tournament-hpc-20270529@chu06.github.io
 DTSTAMP:20260826T232600Z
-SUMMARY:HP1 - RA High Performance Championship (HPC)
+SUMMARY:HP1 - RA High Performance Championship
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270530
 DESCRIPTION:RA High Performance Championship
