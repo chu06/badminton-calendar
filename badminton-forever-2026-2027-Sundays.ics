@@ -1,0 +1,275 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Kelvin//Badminton Forever 2026 2027 Sundays//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Badminton Forever 2026-2027 Sundays Schedule
+X-WR-CALDESC:Badminton Forever 2026-2027 Sundays Schedule
+X-WR-TIMEZONE:America/Toronto
+
+BEGIN:VTIMEZONE
+TZID:America/Toronto
+X-LIC-LOCATION:America/Toronto
+
+BEGIN:DAYLIGHT
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+DTSTART:20260308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+
+BEGIN:STANDARD
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+DTSTART:20261101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+
+END:VTIMEZONE
+
+BEGIN:VEVENT
+UID:badminton-forever-sundays-20260920@chu06.github.io
+DTSTAMP:20261009T171906Z
+SUMMARY:Sunday WOM - Badminton Forever
+DTSTART;TZID=America/Toronto:20260920T140000
+DTEND;TZID=America/Toronto:20260920T170000
+Location: W.O. Mitchell
+END:VEVENT
+
+BEGIN:VEVENT
+UID:badminton-forever-sundays-20260927@chu06.github.io
+DTSTAMP:20261009T171906Z
+SUMMARY:Sunday WOM - Badminton Forever
+DTSTART;TZID=America/Toronto:20260927T140000
+DTEND;TZID=America/Toronto:20260927T170000
+Location: W.O. Mitchell
+END:VEVENT
+
+BEGIN:VEVENT
+UID:badminton-forever-sundays-20261004@chu06.github.io
+DTSTAMP:20261009T171906Z
+SUMMARY:Sunday WOM - Badminton Forever
+DTSTART;TZID=America/Toronto:20261004T140000
+DTEND;TZID=America/Toronto:20261004T170000
+Location: W.O. Mitchell
+END:VEVENT
+
+BEGIN:VEVENT
+UID:badminton-forever-sundays-20261018@chu06.github.io
+DTSTAMP:20261009T171906Z
+SUMMARY:Sunday WOM - Badminton Forever
+DTSTART;TZID=America/Toronto:20261018T140000
+DTEND;TZID=America/Toronto:20261018T170000
+Location: W.O. Mitchell
+END:VEVENT
+
+BEGIN:VEVENT
+UID:badminton-forever-sundays-20261025@chu06.github.io
+DTSTAMP:20261009T171906Z
+SUMMARY:Sunday WOM - Badminton Forever
+DTSTART;TZID=America/Toronto:20261025T140000
+DTEND;TZID=America/Toronto:20261025T170000
+Location: W.O. Mitchell
+END:VEVENT
+
+BEGIN:VEVENT
+UID:badminton-forever-sundays-20261101@chu06.github.io
+DTSTAMP:20261009T171906Z
+SUMMARY:Sunday WOM - Badminton Forever
+DTSTART;TZID=America/Toronto:20261101T140000
+DTEND;TZID=America/Toronto:20261101T170000
+Location: W.O. Mitchell
+END:VEVENT
+
+BEGIN:VEVENT
+UID:badminton-forever-sundays-20261108@chu06.github.io
+DTSTAMP:20261009T171906Z
+SUMMARY:Sunday WOM - Badminton Forever
+DTSTART;TZID=America/Toronto:20261108T140000
+DTEND;TZID=America/Toronto:20261108T170000
+Location: W.O. Mitchell
+END:VEVENT
+
+BEGIN:VEVENT
+UID:badminton-forever-sundays-20261115@chu06.github.io
+DTSTAMP:20261009T171906Z
+SUMMARY:Sunday WOM - Badminton Forever
+DTSTART;TZID=America/Toronto:20261115T140000
+DTEND;TZID=America/Toronto:20261115T170000
+Location: W.O. Mitchell
+END:VEVENT
+
+BEGIN:VEVENT
+UID:badminton-forever-sundays-20261122@chu06.github.io
+DTSTAMP:20261009T171906Z
+SUMMARY:Sunday WOM - Badminton Forever
+DTSTART;TZID=America/Toronto:20261122T140000
+DTEND;TZID=America/Toronto:20261122T170000
+Location: W.O. Mitchell
+END:VEVENT
+
+BEGIN:VEVENT
+UID:badminton-forever-sundays-20261220@chu06.github.io
+DTSTAMP:20261009T171906Z
+SUMMARY:Sunday WOM - Badminton Forever
+DTSTART;TZID=America/Toronto:20261220T140000
+DTEND;TZID=America/Toronto:20261220T170000
+Location: W.O. Mitchell
+END:VEVENT
+
+BEGIN:VEVENT
+UID:badminton-forever-sundays-20270110@chu06.github.io
+DTSTAMP:20261009T171906Z
+SUMMARY:Sunday WOM - Badminton Forever
+DTSTART;TZID=America/Toronto:20270110T140000
+DTEND;TZID=America/Toronto:20270110T170000
+Location: W.O. Mitchell
+END:VEVENT
+
+BEGIN:VEVENT
+UID:badminton-forever-sundays-20270117@chu06.github.io
+DTSTAMP:20261009T171906Z
+SUMMARY:Sunday WOM - Badminton Forever
+DTSTART;TZID=America/Toronto:20270117T140000
+DTEND;TZID=America/Toronto:20270117T170000
+Location: W.O. Mitchell
+END:VEVENT
+
+BEGIN:VEVENT
+UID:badminton-forever-sundays-20270124@chu06.github.io
+DTSTAMP:20261009T171906Z
+SUMMARY:Sunday WOM - Badminton Forever
+DTSTART;TZID=America/Toronto:20270124T140000
+DTEND;TZID=America/Toronto:20270124T170000
+Location: W.O. Mitchell
+END:VEVENT
+
+BEGIN:VEVENT
+UID:badminton-forever-sundays-20270131@chu06.github.io
+DTSTAMP:20261009T171906Z
+SUMMARY:Sunday WOM - Badminton Forever
+DTSTART;TZID=America/Toronto:20270131T140000
+DTEND;TZID=America/Toronto:20270131T170000
+Location: W.O. Mitchell
+END:VEVENT
+
+BEGIN:VEVENT
+UID:badminton-forever-sundays-20270207@chu06.github.io
+DTSTAMP:20261009T171906Z
+SUMMARY:Sunday WOM - Badminton Forever
+DTSTART;TZID=America/Toronto:20270207T140000
+DTEND;TZID=America/Toronto:20270207T170000
+Location: W.O. Mitchell
+END:VEVENT
+
+BEGIN:VEVENT
+UID:badminton-forever-sundays-20270221@chu06.github.io
+DTSTAMP:20261009T171906Z
+SUMMARY:Sunday WOM - Badminton Forever
+DTSTART;TZID=America/Toronto:20270221T140000
+DTEND;TZID=America/Toronto:20270221T170000
+Location: W.O. Mitchell
+END:VEVENT
+
+BEGIN:VEVENT
+UID:badminton-forever-sundays-20270228@chu06.github.io
+DTSTAMP:20261009T171906Z
+SUMMARY:Sunday WOM - Badminton Forever
+DTSTART;TZID=America/Toronto:20270228T140000
+DTEND;TZID=America/Toronto:20270228T170000
+Location: W.O. Mitchell
+END:VEVENT
+
+BEGIN:VEVENT
+UID:badminton-forever-sundays-20270307@chu06.github.io
+DTSTAMP:20261009T171906Z
+SUMMARY:Sunday WOM - Badminton Forever
+DTSTART;TZID=America/Toronto:20270307T140000
+DTEND;TZID=America/Toronto:20270307T170000
+Location: W.O. Mitchell
+END:VEVENT
+
+BEGIN:VEVENT
+UID:badminton-forever-sundays-20270314@chu06.github.io
+DTSTAMP:20261009T171906Z
+SUMMARY:Sunday WOM - Badminton Forever
+DTSTART;TZID=America/Toronto:20270314T140000
+DTEND;TZID=America/Toronto:20270314T170000
+Location: W.O. Mitchell
+END:VEVENT
+
+BEGIN:VEVENT
+UID:badminton-forever-sundays-20270404@chu06.github.io
+DTSTAMP:20261009T171906Z
+SUMMARY:Sunday WOM - Badminton Forever
+DTSTART;TZID=America/Toronto:20270404T140000
+DTEND;TZID=America/Toronto:20270404T170000
+Location: W.O. Mitchell
+END:VEVENT
+
+BEGIN:VEVENT
+UID:badminton-forever-sundays-20270411@chu06.github.io
+DTSTAMP:20261009T171906Z
+SUMMARY:Sunday WOM - Badminton Forever
+DTSTART;TZID=America/Toronto:20270411T140000
+DTEND;TZID=America/Toronto:20270411T170000
+Location: W.O. Mitchell
+END:VEVENT
+
+BEGIN:VEVENT
+UID:badminton-forever-sundays-20270418@chu06.github.io
+DTSTAMP:20261009T171906Z
+SUMMARY:Sunday WOM - Badminton Forever
+DTSTART;TZID=America/Toronto:20270418T140000
+DTEND;TZID=America/Toronto:20270418T170000
+Location: W.O. Mitchell
+END:VEVENT
+
+BEGIN:VEVENT
+UID:badminton-forever-sundays-20270425@chu06.github.io
+DTSTAMP:20261009T171906Z
+SUMMARY:Sunday WOM - Badminton Forever
+DTSTART;TZID=America/Toronto:20270425T140000
+DTEND;TZID=America/Toronto:20270425T170000
+Location: W.O. Mitchell
+END:VEVENT
+
+BEGIN:VEVENT
+UID:badminton-forever-sundays-20270502@chu06.github.io
+DTSTAMP:20261009T171906Z
+SUMMARY:Sunday WOM - Badminton Forever
+DTSTART;TZID=America/Toronto:20270502T140000
+DTEND;TZID=America/Toronto:20270502T170000
+Location: W.O. Mitchell
+END:VEVENT
+
+BEGIN:VEVENT
+UID:badminton-forever-sundays-20270509@chu06.github.io
+DTSTAMP:20261009T171906Z
+SUMMARY:Sunday WOM - Badminton Forever
+DTSTART;TZID=America/Toronto:20270509T140000
+DTEND;TZID=America/Toronto:20270509T170000
+Location: W.O. Mitchell
+END:VEVENT
+
+BEGIN:VEVENT
+UID:badminton-forever-sundays-20270516@chu06.github.io
+DTSTAMP:20261009T171906Z
+SUMMARY:Sunday WOM - Badminton Forever
+DTSTART;TZID=America/Toronto:20270516T140000
+DTEND;TZID=America/Toronto:20270516T170000
+Location: W.O. Mitchell
+END:VEVENT
+
+BEGIN:VEVENT
+UID:badminton-forever-sundays-20270530@chu06.github.io
+DTSTAMP:20261009T171906Z
+SUMMARY:Sunday WOM - Badminton Forever
+DTSTART;TZID=America/Toronto:20270530T140000
+DTEND;TZID=America/Toronto:20270530T170000
+Location: W.O. Mitchell
+END:VEVENT
+
+END:VCALENDAR
